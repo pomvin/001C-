@@ -1,0 +1,15 @@
+C:\Users\chalo\Desktop\Новое 1 лекция С#\bin\Debug\net6.0\Новое 1 лекция С#.exe
+C:\Users\chalo\Desktop\Новое 1 лекция С#\bin\Debug\net6.0\Новое 1 лекция С#.deps.json
+C:\Users\chalo\Desktop\Новое 1 лекция С#\bin\Debug\net6.0\Новое 1 лекция С#.runtimeconfig.json
+C:\Users\chalo\Desktop\Новое 1 лекция С#\bin\Debug\net6.0\Новое 1 лекция С#.dll
+C:\Users\chalo\Desktop\Новое 1 лекция С#\bin\Debug\net6.0\Новое 1 лекция С#.pdb
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.csproj.AssemblyReference.cache
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.AssemblyInfoInputs.cache
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.AssemblyInfo.cs
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.csproj.CoreCompileInputs.cache
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.dll
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\refint\Новое 1 лекция С#.dll
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.pdb
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\Новое 1 лекция С#.genruntimeconfig.cache
+C:\Users\chalo\Desktop\Новое 1 лекция С#\obj\Debug\net6.0\ref\Новое 1 лекция С#.dll
